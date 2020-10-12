@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Dave",
+            "address": "Pluit",
+            "age": 17
+          },
+          {
+            "id": 2,
+            "name": "Arkent",
+            "address": "Pluit",
+            "age": 20
+          },
+          {
+            "id": 3,
+            "name": "Jason",
+            "address": "Bandung",
+            "age": 21
+          }
+    ]
+}
